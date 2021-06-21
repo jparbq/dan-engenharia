@@ -431,7 +431,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/dan-engenharia-pb-bg.jpg") top center;
   background-size: cover;
   position: relative;
 }
@@ -773,7 +773,7 @@ section {
 }
 
 .cta .cta-btn:hover {
-  background: #808080;
+  background: #17d420;
   border: 2px solid #808080;
 }
 
