@@ -675,7 +675,8 @@ section {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #808080;
+  background: #04374c;
+
   transition: all .3s ease-out 0s;
   display: flex;
   align-items: center;
@@ -696,7 +697,7 @@ section {
   top: -8px;
   height: 100%;
   width: 100%;
-  background: #fce5e5;
+  background: #f2f2f2;
   transition: all .3s ease-out 0s;
   transform: translateZ(-1px);
 }
@@ -1412,7 +1413,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #eb4444;
+  color: #777;
 }
 
 #footer .footer-top .footer-newsletter form {
